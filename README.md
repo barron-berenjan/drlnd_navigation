@@ -8,7 +8,7 @@ In this project, an agent is trained to navigate (and collect bananas!) in a lar
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal is to train an agent that collects as many yellow bananas as possible while avoiding blue bananas.
 
-The __state space__ has 37 dimensions which include the agent's velocity, along with ray-based perception of objects around the agent's forward direction. 
+The __state space__ has 37 dimensions that include the agent's velocity, along with ray-based perception of objects around the agent's forward direction. 
 
 There are 4 discrete actions available for the agent to take: `LEFT`, `RIGHT`, `UP`, `DOWN` and the agent learns to choose the best one. 
 
