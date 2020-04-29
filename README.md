@@ -56,7 +56,7 @@ __Note: Unzip the file in the same directory as the notebooks from this reposito
 
 Run the cells in `DuelingDQN_Train.ipynb` to train the agent. The agent will stop training once on average of +13 bananas are collected over 100 consecutive episodes.
 
-## Watch A Trained Agent in Action
+## Watch a Trained Agent in Action
 
 Run `DuelingDQN_Control.ipynb` to watch a pre-trained agent collect Bananas!
 
